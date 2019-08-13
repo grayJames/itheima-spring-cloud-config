@@ -13,4 +13,4 @@ eureka:
     service-url:
       defaultZone: http://127.0.0.1:10086/eureka
 test:
-  hello: config-center
+  hello: config-center-bus-actuator-refresh
