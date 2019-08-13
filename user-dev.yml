@@ -13,4 +13,4 @@ eureka:
     service-url:
       defaultZone: http://127.0.0.1:10086/eureka
 test:
-  hello world !!!
+  hello: world
